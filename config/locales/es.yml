@@ -1,5 +1,5 @@
 es:
-  hello: "Hola mundo"
+  hello: "Hola mundo!"
   products:
     index:
       title: "Productos"
